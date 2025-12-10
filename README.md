@@ -1,4 +1,7 @@
 # Ithi-Sujith-Babu-Project-Full-Stack-Developer-Position-at-TANDEMLOOP
+
+##This project contains four Java programs demonstrating basic programming concepts: arithmetic operations, series generation, and counting multiples. ##
+
 ## Problem 1 – Simple Calculator
 
 ## Description
